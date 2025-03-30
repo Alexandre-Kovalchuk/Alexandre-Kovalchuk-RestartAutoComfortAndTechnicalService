@@ -28,18 +28,24 @@ Restart is a professional platform that offers comprehensive services for the di
 This repository contains the **final production build**. Gulp was used only during development, and all necessary files are already compiled in the `dist` folder.
 
 ## 🌟 Features
-- Responsive and adaptive layout
-    The design ensures optimal viewing across all devices, from mobile phones to large desktop screens.
-- Modular SCSS structure
-    A well-organized and reusable SCSS architecture for better maintainability and scalability.
-- Automated build process with Gulp (during development)
-    Streamlined workflows with Gulp for tasks like minification, compilation, and live reloading.
-- Clean and modern UI/UX
-    Intuitive and visually appealing user interface designed for ease of use and a seamless experience.
-- Cross-browser compatibility
-    Ensures consistent performance and appearance across all major browsers (Chrome, Firefox, Safari, Edge).
-- Pixel-perfect design
-    Precise attention to detail ensures that the design matches the mockups exactly, delivering a polished and professional look.
+
+- **Responsive and adaptive layout**  
+  The design ensures optimal viewing across all devices, from mobile phones to large desktop screens.
+
+- **Modular SCSS structure**  
+  A well-organized and reusable SCSS architecture for better maintainability and scalability.
+
+- **Automated build process with Gulp (during development)**  
+  Streamlined workflows with Gulp for tasks like minification, compilation, and live reloading.
+
+- **Clean and modern UI/UX**  
+  Intuitive and visually appealing user interface designed for ease of use and a seamless experience.
+
+- **Cross-browser compatibility**  
+  Ensures consistent performance and appearance across all major browsers (Chrome, Firefox, Safari, Edge).
+
+- **Pixel-perfect design**  
+  Precise attention to detail ensures that the design matches the mockups exactly, delivering a polished and professional look.
 
 ## 📸 Preview
 [Live Demo on GitHub Pages](https://alexandre-kovalchuk.github.io/RestartAutoComfortAndTechnicalService/index.html)
